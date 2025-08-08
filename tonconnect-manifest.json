@@ -1,0 +1,7 @@
+{
+    "manifest_version": "1",
+    "name": "2048 Telegram Game",
+    "description": "Play 2048 and earn TON",
+    "icon_url": "https://milan1660.github.io/icon.png",
+    "url": "https://milan1660.github.io"
+}
